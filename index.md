@@ -21,8 +21,7 @@ Segmentos em que atuamos
   > Controle de Produção, Receitas
   > Rastreabilidade, Gestão de Custos, Inventário
 
-<br>
-<br>
+---
 
 #### INFORMAÇÕES DE CONTATO
 (18) 98114-8329 <br>
