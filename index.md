@@ -10,15 +10,16 @@ Segmentos em que atuamos
   > Estoque e Compras <br>
   > Relatórios Gerenciais e Impressão de Etiquetas <br>
   > Importação de Arquivos XML <br>
-  > Certificação Digital <br>
+  > Certificação Digital
 
 * **Distribuidora**
   > Emissão de NFe, NFCe, CTe e MDFe <br>
-  > Gestão de Vendas, Logística, Faturamento e Entrega de produtos
+  > Gestão de Vendas e Logística <br>
+  > Faturamento e Entrega de produtos
 
 * **Indústria**
   > Emissão de NFe, NFCe e MDFe <br>
-  > Controle de Produção, Receitas
+  > Controle de Produção, Receitas <br>
   > Rastreabilidade, Gestão de Custos, Inventário
 
 ---
