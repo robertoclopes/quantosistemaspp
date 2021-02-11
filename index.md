@@ -1,34 +1,31 @@
 ## Quanto Soluções & Sistemas
 ---
 
-### Informações de contato adicionais
+#### Informações de contato adicionais
 ---
 
-### Endereço
+#### Endereço
 ---
 
-### Atendimento
+#### Atendimento
 ---
 
-### Siga-nos
+#### Siga-nos
 ---
 
 [<img src="http://casaderepousocasanostra.com.br/img/fb.png">](https://www.facebook.com/quantosistemaspp)
 
-
-
-
-~~~javascript
+ˋˋˋjavascript
 Esta é uma linha de código em Javascript.
-~~~
+ˋˋˋ
 
-~~~php
+ˋˋˋphp
 Esta é uma linha de código em PHP.
-~~~
+ˋˋˋ
 
-~~~html
+ˋˋˋhtml
 Esta é uma linha de código em HTML.
-~~~
+ˋˋˋ
 
 
 You can use the [editor on GitHub](https://github.com/robertoclopes/quantosistemaspp/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
