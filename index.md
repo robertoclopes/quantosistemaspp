@@ -8,6 +8,7 @@
 ---
 
 #### Atendimento
+Segunda a Sexta das 08:00 – 17:30
 ---
 
 #### Siga-nos
@@ -15,17 +16,17 @@
 
 [<img src="http://casaderepousocasanostra.com.br/img/fb.png">](https://www.facebook.com/quantosistemaspp)
 
-ˋˋˋjavascript
+~~~javascript
 Esta é uma linha de código em Javascript.
-ˋˋˋ
+~~~
 
-ˋˋˋphp
+~~~php
 Esta é uma linha de código em PHP.
-ˋˋˋ
+~~~
 
-ˋˋˋhtml
+~~~html
 Esta é uma linha de código em HTML.
-ˋˋˋ
+~~~
 
 
 You can use the [editor on GitHub](https://github.com/robertoclopes/quantosistemaspp/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
