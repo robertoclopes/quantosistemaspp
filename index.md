@@ -1,9 +1,8 @@
 ## Quanto Soluções & Sistemas
-
 ---
 
 #### INFORMAÇÕES DE CONTATO ADICIONAIS
-(18) 98114-8329
+(18) 98114-8329 <br>
 (18) 99720-6720
 
 ---
