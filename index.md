@@ -1,4 +1,4 @@
-<img src="https://github.com/robertoclopes/quantosistemaspp/blob/gh-pages/logo.jpg?raw=true">
+## Quanto Soluções & Sistemas
 ---
 
 #### INFORMAÇÕES DE CONTATO ADICIONAIS
