@@ -25,7 +25,7 @@ Segmentos em que atuamos
 <br>
 
 #### INFORMAÇÕES DE CONTATO
-<img src="https://www.iconfinder.com/icons/1954539/call_contact_mobile_phone_telephone_icon"> (18) 98114-8329 <br>
+(18) 98114-8329 <br>
 (18) 99720-6720
 
 ---
