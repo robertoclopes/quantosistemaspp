@@ -3,8 +3,8 @@
 
 Segmentos em que atuamos
 
-* Varejo
-  > Emissão de NFe e NFCe <br>
+* **Varejo**
+  > - Emissão de NFe e NFCe <br>
   > Controle Financeiro <br>
   > Faturamento <br>
   > Estoque e Compras <br>
@@ -12,11 +12,11 @@ Segmentos em que atuamos
   > Importação de Arquivos XML <br>
   > Certificação Digital <br>
 
-* Distribuidora
+* **Distribuidora**
   > Emissão de NFe, NFCe, CTe e MDFe <br>
   > Gestão de Vendas, Logística, Faturamento e Entrega de produtos
 
-* Indústria
+* **Indústria**
   > Emissão de NFe, NFCe e MDFe <br>
   > Controle de Produção, Receitas
   > Rastreabilidade, Gestão de Custos, Inventário
