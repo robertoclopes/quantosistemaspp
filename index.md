@@ -1,6 +1,22 @@
 ## Quanto Soluções & Sistemas
 ---
 
+Segmentos em que atuamos
+
+* Varejo
+  > Emissão de NFe, NFCe, CTe e MDFe
+  > Controle Financeiro (Contas a Pagar, Contas a Receber e Fluxo de Caixa) <br>
+  > Faturamento <br>
+  > Estoque e Compras <br>
+  > Relatórios Gerenciais e Impressão de Etiquetas <br>
+  > Importação de Arquivos XML <br>
+  > Certificação Digital <br>
+
+<br>
+<br>
+<br>
+<br>
+
 #### INFORMAÇÕES DE CONTATO
 (18) 98114-8329 <br>
 (18) 99720-6720
