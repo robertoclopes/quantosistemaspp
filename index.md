@@ -1,4 +1,4 @@
-# Quanto Soluções & Sistemas
+<img src="https://github.com/robertoclopes/quantosistemaspp/blob/gh-pages/logo.jpg?raw=true">
 ---
 
 #### INFORMAÇÕES DE CONTATO ADICIONAIS
@@ -22,10 +22,3 @@ Segunda a Sexta das 08:00 – 17:30
 #### SIGA-NOS
 [<img src="http://casaderepousocasanostra.com.br/img/fb.png">](https://www.facebook.com/quantosistemaspp)
 [<img src="https://www.cavpower.com/app/uploads/2019/01/Instagram-logo-29px.png">](https://www.instagram.com/quantosistemaspp)
-
-<br>
-<br>
-<br>
-<br>
-
-<img src="https://github.com/robertoclopes/quantosistemaspp/blob/gh-pages/logo.jpg?raw=true">
