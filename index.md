@@ -28,4 +28,4 @@ Segunda a Sexta das 08:00 – 17:30
 <br>
 <br>
 
-[<img src="https://github.com/robertoclopes/quantosistemaspp/blob/gh-pages/logo.jpg?raw=true">]
+<img src="https://github.com/robertoclopes/quantosistemaspp/blob/gh-pages/logo.jpg?raw=true">
