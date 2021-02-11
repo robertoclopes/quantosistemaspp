@@ -1,7 +1,6 @@
 ## Quanto Soluções e Sistemas
 
-___
-
+---
 
 [<img src="http://casaderepousocasanostra.com.br/img/fb.png">](https://www.facebook.com/quantosistemaspp)
 
