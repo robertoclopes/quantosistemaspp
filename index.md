@@ -4,8 +4,8 @@
 Segmentos em que atuamos
 
 * Varejo
-  > Emissão de NFe, NFCe, CTe e MDFe
-  > Controle Financeiro <br>
+  > Emissão de NFe, NFCe, CTe e MDFe <br>
+  > Controle Financeiro (Contas a Pagar, Contas a Receber e Fluxo de Caixa) <br>
   > Faturamento <br>
   > Estoque e Compras <br>
   > Relatórios Gerenciais e Impressão de Etiquetas <br>
@@ -16,7 +16,7 @@ Segmentos em que atuamos
 <br>
 
 #### INFORMAÇÕES DE CONTATO
-(18) 98114-8329 <br>
+<img src="https://www.iconfinder.com/icons/1954539/call_contact_mobile_phone_telephone_icon"> (18) 98114-8329 <br>
 (18) 99720-6720
 
 ---
