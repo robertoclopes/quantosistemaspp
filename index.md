@@ -4,7 +4,7 @@
 Segmentos em que atuamos
 
 * **Varejo**
-  > - Emissão de NFe e NFCe <br>
+  > Emissão de NFe e NFCe <br>
   > Controle Financeiro <br>
   > Faturamento <br>
   > Estoque e Compras <br>
